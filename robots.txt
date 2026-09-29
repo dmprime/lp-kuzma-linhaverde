@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linhaverde.molaskuzma.com.br/sitemap.xml

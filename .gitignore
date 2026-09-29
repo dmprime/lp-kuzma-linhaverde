@@ -1,0 +1,19 @@
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Source design files
+*.psd
+*.ai
+*.sketch
+
+# Node
+node_modules/
+
+# Claude
+.claude/
